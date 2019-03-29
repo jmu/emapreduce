@@ -91,7 +91,7 @@
     若您有了一个大作业，使用 yarn-client 模式，想要多用一些这个集群的资源，请参见如下配置：
 
     ```
-    --master yarn-client --driver-memory 5g –-num-executors 20 --executor-memory 4g --executor-cores 4
+    --master yarn-client --driver-memory 5g --num-executors 20 --executor-memory 4g --executor-cores 4
     ```
 
     **说明：** 
